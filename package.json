@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "dead-server --port=3000 --host=localhost",
+    "dev": "nodemon",
+    "number": "nodemon ./js/number.js ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
