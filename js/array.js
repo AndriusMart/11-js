@@ -14,3 +14,4 @@ const average = total / count;
 console.log('Average:', average);
 
 const random = [7, 777, 'labas', 9, true, 'rytas', false, []];
+
