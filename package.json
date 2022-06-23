@@ -7,6 +7,7 @@
     "dev": "nodemon",
     "numberImport": "nodemon ./numberImport.js",
     "family": "nodemon ./js/family.js",
+    "multiArray": "nodemon ./js/multiArray.js",
     "destructuring": "nodemon ./js/destructuring.js",
     "maxInList": "nodemon ./js/maxInList.js",
     "numCount": "nodemon ./js/numCount.js",
